@@ -1,5 +1,5 @@
 # The Telegram bot is received the weather from yandexWeather and open weather by using AirFlaw. 
-# Airflow receives data from SQL database by MySQLClient and send to Telegram in wives of tables.
+# Airflow receives data from SQL database by MySQLClient and send to Telegram in views of tables.
 
 
 
